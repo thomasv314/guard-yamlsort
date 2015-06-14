@@ -1,0 +1,5 @@
+guard 'yamlsort' do
+
+  watch('config/locales/en.yml')
+
+end
