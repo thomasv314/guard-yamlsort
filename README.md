@@ -1,7 +1,7 @@
 # Guard::Yamlsort
 Guard::Yamlsort alphabetically sorts keys in yaml files when a modification is detected.
 
-![Preview of guard-yamlsort](https://raw.githubusercontent.com/thomasv314/guard-yamlsort/master/preview.gif "Preview of Guard yamlsort")
+![Preview of guard-yamlsort](https://raw.githubusercontent.com/thomasv314/guard-yamlsort/master/doc/preview.gif "Preview of Guard yamlsort")
 
 ## Requirements
 * The [Guard](https://github.com/guard/guard) rubygem.
